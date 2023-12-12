@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TipSplit</string>
+    <string name="enter">Enter</string>
+    <string name="total_people">Total People:</string>
+    <string name="total_with_tip">Total with Tip:</string>
+    <string name="tip_amount">Tip Amount:</string>
+    <string name="bill_total_with_tax">Bill Total with Tax:</string>
+    <string name="tip_percent">Tip Percent:</string>
+    <string name="_12">12%</string>
+    <string name="_15">15%</string>
+    <string name="_18">18%</string>
+    <string name="_20">20%</string>
+    <string name="go">Go</string>
+    <string name="clear">clear</string>
+    <string name="total_split">Total Split:</string>
+</resources>
